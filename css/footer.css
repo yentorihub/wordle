@@ -1,0 +1,51 @@
+footer {
+  margin-top: 20px;
+}
+.keyboard-00 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.keyboard-01 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.keyboard-02 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.key-btn {
+  background-color: var(--basic-color);
+  border-radius: 5px;
+  width: 38px;
+  height: 55px;
+  cursor: pointer;
+  border: 0px;
+  margin: 0px 4px 5px 0px;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.spacer {
+  width: 20px;
+}
+
+.enter-btn {
+  width: 65px;
+  height: 55px;
+  font-size: 14px;
+}
+
+.backspace-btn {
+  width: 60px;
+  height: 55px;
+}
+
+.backspace-btn img {
+  width: 25px;
+  height: 25px;
+}
