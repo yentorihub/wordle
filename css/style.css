@@ -4,4 +4,7 @@
 
 :root {
   --basic-color: rgb(211, 214, 218);
+  --correct-color: rgb(106, 170, 100);
+  --miss-color: rgb(201, 180, 88);
+  --stress-color: rgb(120, 124, 126);
 }
